@@ -2,7 +2,7 @@ PingoMatiX for MODx Revolution
 =======================================
 
 
-**Author:** Peter Edley <http://www.cww.org.uk> [Pete Edley](http://www.cww.org.uk)
+**Author:** Peter Edley <http://www.cww.org.uk> [Pete Edley](http://www.cww.org.uk)  
 **Based on code from:** barattalo <http://www.barattalo.it/>
 
 PingoMatiX is a plugin that allows you to ping pingomatic.com for new page creations in Modx
